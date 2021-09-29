@@ -54,7 +54,6 @@ main {
 
 .background .table-wrapper {
   width: 80%;
-  min-height: 63vh;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: auto 4fr;
