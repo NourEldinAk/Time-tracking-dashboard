@@ -296,7 +296,7 @@ main {
 }
 
 .background .table-wrapper .time-table .work::before {
-  background-image: url("../images/icon-work.svg");
+  background-image: url("./images/icon-work.svg");
 }
 
 .background .table-wrapper .time-table .play {
@@ -304,7 +304,7 @@ main {
 }
 
 .background .table-wrapper .time-table .play::before {
-  background-image: url("../images/icon-play.svg");
+  background-image: url("./images/icon-play.svg");
 }
 
 .background .table-wrapper .time-table .study {
@@ -312,7 +312,7 @@ main {
 }
 
 .background .table-wrapper .time-table .study::before {
-  background-image: url("../images/icon-study.svg");
+  background-image: url("./images/icon-study.svg");
 }
 
 .background .table-wrapper .time-table .exercise {
@@ -320,7 +320,7 @@ main {
 }
 
 .background .table-wrapper .time-table .exercise::before {
-  background-image: url("../images/icon-exercise.svg");
+  background-image: url("./images/icon-exercise.svg");
   background-position: right 20px top -2px;
 }
 
@@ -330,7 +330,7 @@ main {
 
 .background .table-wrapper .time-table .social::before {
   background-position: right 20px top -4px;
-  background-image: url("../images/icon-social.svg");
+  background-image: url("./images/icon-social.svg");
 }
 
 .background .table-wrapper .time-table .self-care {
@@ -338,6 +338,6 @@ main {
 }
 
 .background .table-wrapper .time-table .self-care::before {
-  background-image: url("../images/icon-self-care.svg");
+  background-image: url("./images/icon-self-care.svg");
 }
 /*# sourceMappingURL=style.css.map */
