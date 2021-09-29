@@ -54,10 +54,11 @@ main {
 
 .background .table-wrapper {
   width: 80%;
+  min-height: 63vh;
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 1fr 4fr;
-      grid-template-columns: 1fr 4fr;
+  -ms-grid-columns: auto 4fr;
+      grid-template-columns: auto 4fr;
   gap: 30px;
 }
 

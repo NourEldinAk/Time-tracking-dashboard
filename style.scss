@@ -36,8 +36,9 @@ main {
 
   .table-wrapper {
     width: 80%;
+    min-height: 63vh;
     display: grid;
-    grid-template-columns: 1fr 4fr;
+    grid-template-columns: auto 4fr;
     gap: 30px;
     @media (max-width: 1150px) {
       grid-template-columns: 1fr;
