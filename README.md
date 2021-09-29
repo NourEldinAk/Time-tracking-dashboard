@@ -10,12 +10,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot.jpg)
 
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://noureldinak.github.io/Time-tracking-dashboard/
 
 ## My process
 
