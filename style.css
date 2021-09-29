@@ -53,7 +53,7 @@ main {
 }
 
 .background .table-wrapper {
-  width: 70%;
+  width: 80%;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 1fr 4fr;
