@@ -6,7 +6,7 @@ fetch("./data.json")
   .then((resp) => resp.json())
   .then((jsonData) => {
     data = jsonData;
-    console.log(data);
+
   });
 actions.forEach((action) => {
   action.addEventListener("click", (e) => {
@@ -16,7 +16,7 @@ actions.forEach((action) => {
 
     if (e.target.dataset.time === "daily") {
       e.target.classList.add("active");
-      console.log("clicked1");
+ 
       Time("daily");
     }
 
@@ -29,7 +29,7 @@ actions.forEach((action) => {
       Time("monthly");
     }
   });
-  console.log(action.className);
+
 });
 
 function Time(timeStamp) {
